@@ -1,6 +1,11 @@
 {
     "msgData":"Hello, How can I help you with my assistance Sir/Ma'am. I can help you with service like updates on the device, track your missing device, help you contact from engineering team if there is some fault in this. Please sir tell me how can I assist you?",
-    "scratchUsername":"SCRATCH-ORG-USERNAME",
-    "scratchPassword":"SCRATCH-ORG-PASSWORD"
+
+    "org1ScratchUsername":"SALESFORCE_ORG1_USERNAME",
+    "org1ScratchPassword":"SALESFORCE_ORG1_PASSWORD",
+
+
+    "org2ScratchUsername":"SALESFORCE_ORG2_USERNAME",
+    "org2ScratchPassword":"SALESFORCE_ORG2_PASSWORD"
 
 }
